@@ -1,0 +1,12 @@
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\bin\Debug\net7.0\ShoppingCart.Utility.deps.json
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\bin\Debug\net7.0\ShoppingCart.Utility.dll
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\bin\Debug\net7.0\ShoppingCart.Utility.pdb
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ShoppingCart.Utility.csproj.AssemblyReference.cache
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ShoppingCart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ShoppingCart.Utility.AssemblyInfoInputs.cache
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ShoppingCart.Utility.AssemblyInfo.cs
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ShoppingCart.Utility.csproj.CoreCompileInputs.cache
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ShoppingCart.Utility.dll
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\refint\ShoppingCart.Utility.dll
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ShoppingCart.Utility.pdb
+C:\Users\lukas\Desktop\Start\ShopWEB\ShoppingCart.Utility\obj\Debug\net7.0\ref\ShoppingCart.Utility.dll
